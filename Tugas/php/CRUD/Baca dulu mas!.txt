@@ -1,0 +1,6 @@
+tugas ini belajar menampilkan database ke browser dengan fungsi creat,read,update,delete dan search 
+serta menggunakan halaman login untuk bisa mengaksesnya
+
+
+username:admin
+password:admin
