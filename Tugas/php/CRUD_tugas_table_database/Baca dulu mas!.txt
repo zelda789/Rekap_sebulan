@@ -1,0 +1,1 @@
+tugas ini belajar menampilkan database sekolah ke browser dengan menerapkan oop(ada di detail)

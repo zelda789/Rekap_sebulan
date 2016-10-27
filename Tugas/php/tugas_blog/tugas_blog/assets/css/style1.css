@@ -1,0 +1,186 @@
+*{
+	margin-left:12px;
+	margin: 0;
+	padding: 0;
+	font-family: timeless, "verdana", arial, sans-serif;
+	cursor: crosshair;
+
+}
+
+
+body{
+	margin-left:12px;
+	background: #e3e3e3;
+}
+
+#wrapper{
+	/*margin:20px 40px 0px 40px;*/
+	width: 770px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+#header{
+	background: url(backheader.jpg) repeat-x #555;
+	height: 70px;
+	width: 100%;
+	padding: 25px;
+	margin: 10px 0;
+	overflow: hidden;
+}
+#header img{width: 740px;
+	height: 115px;
+/*margin:auto;*/
+margin-top:-20px;
+margin-left:-12px;}
+
+#header form{
+	float: right;
+	margin-top: 7px;
+	margin-right: 10px;
+}
+
+#header form input{
+	border: none;
+	height: 20px;
+}
+
+#posts-list{
+	width: 470px;
+	float: left;
+}
+
+.artikel{
+	background: #fad1b1;
+	font-size:12px;
+	padding: 10px;
+	margin-bottom: 20px;
+	overflow: hidden;
+}
+
+.artikel img{
+	float: left;
+	
+	margin-right: 10px;
+	width: 200px;
+	height: 165px;
+}
+
+.artikel b{
+	color: #616060;
+	background: #b1dffa;
+	padding: 3px;
+	font-size: 12px;
+	font-weight: bold;
+	margin-right: 10px;
+}
+
+.artikel p{
+	margin: 10px;
+
+
+}
+
+.artikel a:hover{
+	display: inline;
+	text-align: right;
+	color: red;
+
+}
+
+#sidebar{
+	width: 270px;
+	float: right;
+}
+
+#sidebar h2{
+	font-size: 18px;
+	margin: 10px 0;
+}
+
+
+#sidebar h2.sidebar1{
+	margin-top:10px;
+}
+
+#sidebar h2.sidebar2{
+
+	margin-top:200px;
+}
+
+#sidebar h2.sidebar2 ul li{
+	list-style: none;
+}
+
+#sidebar p{
+	line-height: 20px;
+	color: #636363;
+}
+
+#sidebar ul{
+	margin-left: 10px;
+}
+
+#sidebar ul li a{
+	color: #636363
+	text-decoration:none;
+}
+
+#footer{
+	clear: both;
+	margin: 20px 0;
+	text-align: center;
+	background-color: #f77611;
+	padding: 5px;
+	color: #555555;
+	border-radius: 25px;
+}
+#footer p{
+	color:white;
+}
+
+#footer p:hover{
+	color:black;
+}
+h4:hover {
+color: red;
+
+}
+h2{
+
+transition: height 0.5s ease-out;
+color:red;
+}
+
+h2:hover{
+	color:black;
+}
+
+
+
+img{
+	height:220px;
+}
+.menu ul li {
+	display: inline;
+
+}
+.menu{
+	text-align:center;
+	margin: 20px 0;
+	text-align: center;
+	background-color: #f77611;
+	padding: 5px;
+	color: #555555;
+	border-radius: 25px;
+}
+.menu ul li a{
+color:black;
+text-decoration: none;
+padding: 6px 8px;
+background: cornsilk;
+
+}
+.menu ul li a:hover{
+	color:red;
+}

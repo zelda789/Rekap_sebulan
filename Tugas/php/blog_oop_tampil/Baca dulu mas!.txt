@@ -1,0 +1,6 @@
+tugas ini menerapkan oop dari blog (cuma tampil).
+ps:
+Login sudah, CRUD nya masih blum selesai.
+
+username:admin
+password:admin
