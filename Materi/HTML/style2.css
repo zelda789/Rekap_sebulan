@@ -1,0 +1,32 @@
+h3{
+	/*background:url(https://s-media-cache-ak0.pinimg.com/564x/54/b0/db/54b0dbdbe00a973fabcb0730a148b97c.jpg);*/
+	/*background-color:grey;*/
+/*	background-repeat: repeat-y;*/
+/*background-position: right bottom;*/
+/*background-attachment : fixed;*/
+/*background-size: 100px 200px;*/
+
+	color: black;
+	font-size: 40px;
+	text-shadow: 3px 3px grey;
+}
+/*h1{
+	color:black;
+	text-shadow: 3px 3px grey;
+	background:magenta
+}*/
+span{
+	background:magenta;
+	text-shadow:3px 3px white;
+}
+legend{
+	color:red;
+	
+}
+p strong{
+	color:grey;
+}
+p strong a{
+	color:red;
+}
+

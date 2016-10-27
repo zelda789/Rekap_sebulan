@@ -1,0 +1,74 @@
+/*div{
+	background : green;
+	width:150px;
+	height:400px;
+	overflow-x: hidden;
+	overflow-y: scroll;
+}
+p{
+	width:200px;
+	background:green;
+}*/
+
+
+
+/*div{
+	position:absolute;
+	width:100px;
+	height:100px;
+	top:60px;
+	left:30px;
+}
+#kotakmerah{
+	background:red;
+	z-index: 2;
+}
+
+#kotakhijau{
+	background:green;
+	z-index: 1;
+	top:50px;
+	left:50px;
+}*/
+
+
+/*
+input:hover{
+	background :red;
+}
+input:focus{
+	background:blue;
+}
+input:active{
+	background:green;
+}*/
+
+
+/*ul li{
+	display:inline;
+}
+
+ul li:first-child{
+color:red;
+}
+ul li:last-child{
+	color:orange;
+}*/
+
+/*ul li:nth-child(even){
+color:blue;
+}*/
+
+
+/*li not(.diff){
+	color:blue;
+}*/
+
+
+h1:before{
+	content:"hello";
+}
+
+h1:after{
+	content:" lagi";
+}

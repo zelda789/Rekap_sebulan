@@ -1,0 +1,52 @@
+span{
+	color:red;
+	opacity: 0.68;
+	font-family:"algerian";
+	border-style:dotted;
+	margin-left:16px;
+}
+h2{
+	color: #752fad;
+	font-family:"magneto";
+
+	border-style:solid;
+
+	width:9.5%;
+	margin-top:30px;
+	margin-left:16px;
+
+}
+p{
+	margin:9px;
+	position:static;
+	border: 1px solid #3bd7e4;
+	width:44%;
+
+
+}
+blockquote{
+
+	border: 1px solid #3bd7e4;
+	width:44.5%;
+
+}
+div{
+	margin:9px;
+	border: 1px solid #49791c;
+	width:49.5%;
+
+}
+#header{
+	color:red;
+	border:none;
+
+}
+#sidebar{
+	border:none;
+}
+#content{
+	width:100%;
+}
+.clearfix{
+	border:none;
+}

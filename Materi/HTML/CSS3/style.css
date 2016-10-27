@@ -1,0 +1,18 @@
+.box{
+	width: 200px;
+	height: 200px;
+	position:absolute;
+	left:100px;
+	top:100px;
+	background: linear-gradient(to top left, green, blue, green, blue);
+
+
+/*	background:blue;
+	border-radius: 100px;
+	box-shadow: inset -0px -5px -5px black,
+				inset 0px 1px 5px red,
+				0px 10px 10px grey,
+				0px 0px 50px yellow
+				; */
+}
+
